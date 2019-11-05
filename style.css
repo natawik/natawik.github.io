@@ -30,6 +30,11 @@ h3 {
     margin: 0 0 32px; 
     text-align: center;
 } 
+#edu {
+    margin: 0 0 32px; 
+    text-align: center;
+    font-weight: bold;
+} 
 #footer {
     margin: 64px 0; 
     text-align: center;
